@@ -1,0 +1,12 @@
+Hot Tamale	Mexican	25
+Cafe Masala	Indian	30
+Cafe Mix	Modern Australian	75
+Kables	Modern Australian	50
+Inaho Tei	Japanese	40
+Altitude	Fine Dining	100
+McDonalds	Fast Food	8
+Hungry Jacks	Fast Food	8.50
+pita pocket	Indian	25
+summer palace	chinese	35
+cafe fiesta	Modern European	30
+Star buffet	Asian Buffet	25
